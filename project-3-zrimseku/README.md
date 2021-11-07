@@ -1,8 +1,5 @@
 # Project 3: Predictive modeling
 
-Data and details on the data set can be found [here](https://classroom.github.com/a/GSP5KZ49).
-
-
 ## Instructions
 
 If you want to reproduce the work you should follow the instructions in the `predictive_modeling.ipynb`.
